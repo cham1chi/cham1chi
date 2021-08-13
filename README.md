@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Experiences
 - Bachelor's degree in Hanyang University, Department of Civil & Environmental Engineering | 2014.03~2020.02 
-- MS student egree in Hanyang University, Department of Civil & Environmental Engineering | 2020.03~
+- MS student in Hanyang University, Department of Civil & Environmental Engineering | 2020.03~
 
 ## Awards & Certificates
 - 2015-1 undergraduate leadership scholarship (Hanyang University)
