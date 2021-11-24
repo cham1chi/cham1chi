@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Publication
 ### Preparation
-- Experimental Investigation on Sound Features for Auditory Alarm Perception under Construction Noise using Electroencephalogram (2021). Accident Analysis and Prevention, Elsevier. (will be submitted in Agust 2021)
-- Reinforcement algorimthms for automating heavy construction equipment: Tower Crane (2021). Automation in Construction, Elsevier. (will be submitted in October 2021)
+- Experimental Investigation on Sound Features for Auditory Alarm Perception under Construction Noise using Electroencephalogram (2021). Accident Analysis and Prevention, Elsevier. (will be submitted in december 2021)
+- Reinforcement algorimthms for automating heavy construction equipment: Tower Crane (2021). Automation in Construction, Elsevier. (will be submitted in december 2021)
